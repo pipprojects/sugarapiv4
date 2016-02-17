@@ -1,8 +1,6 @@
 # sugarapiv4
 Client library for SugarCRM 6 REST API V4
 ===============================
-SugarCRM Python library REST V4
-===============================
 Introduction
 ------------
 This library allows access to the V4 REST API on SugarCRM 6
