@@ -9,7 +9,7 @@ This library allows access to the V4 REST API on SugarCRM 6
 -----------------
 This library contains code from the Python webservices library
 https://github.com/gddc/python_webservices_library
-realeased under the BSD license - see LICENSE.txt
+released under the BSD license - see LICENSE.txt
 
 Usage
 -----
